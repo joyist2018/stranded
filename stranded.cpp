@@ -1,5 +1,7 @@
 /**
- * STRANDED by Neil a.k.a. LuKeM
+ * STRANDED by Neil a.k.a. LuKeM (NOTE: The file extension has been renamed to .cpp for
+ * github syntax highlighting, but the actual extension is .nut)
+ *
  * Move, build, and barricade. Scavenge for food and water. How long can you survive?
  */
 //-------------------------------------------------------------------------------------------
